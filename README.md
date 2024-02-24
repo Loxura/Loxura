@@ -1,10 +1,4 @@
--الخيم بلا وتد كطيح
--الغيمة ناشفة بلا ريح
--خوك ما يدوزك وخا يولي عدوك 
--فالشدة عنداك الشمتة 
--صحابك اشربوك فجغمة
--خوك خوك خوك 
--وخا تكحال السما عمر الدم اولي ما
+Let this be the start of a wonderful journey !
 
 <!---
 Loxura/Loxura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
